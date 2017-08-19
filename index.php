@@ -28,7 +28,7 @@ $result = $conn->query($sql);
 </head>
 <body>
 
-<h3>Hotels.ng Demo - by Peter Pere</h3>
+<h3>Hotels.ng Demo - by Andy Eshiet</h3>
 <div style="">
 
 <?php if($result->num_rows > 0): ?>
